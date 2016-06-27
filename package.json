@@ -1,0 +1,23 @@
+{
+  "name": "pokedexpck",
+  "version": "1.0.0",
+  "description": "project package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cghost182/pokedex.git"
+  },
+  "author": "christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cghost182/pokedex/issues"
+  },
+  "homepage": "https://github.com/cghost182/pokedex#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^1.0.0"
+  }
+}
